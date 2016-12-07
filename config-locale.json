@@ -9,7 +9,7 @@
     {"key": "keyWords", "display": {"en": "🔑 Key words", "ru": "🔑 Ключевые слова"}},
     {"key": "customText", "display": {"en": "📝 Add custom text", "ru": "📝 Дополнительный текст"}},
     {"key": "noNotify", "display": {"en": "🔕 Silent Broadcast", "ru": "🔕 Отправлять “тихо”"}},
-    {"key": "photoLimit", "display": {"en": "📷 Limit by photos", "ru": "📷 Ограничить по числу фото"}}, 
+    {"key": "photoLimit", "display": {"en": "📷 Limit by photos", "ru": "📷 Ограничить кол-во фото"}}, 
     {"key": "deleteTags", "display": {"en": "🏷 Remove “@...” from tags", "ru": "🏷 Удалять “@...” из тегов"}}, 
     {"key": "reposts", "display": {"en": "🌀 Send reposts", "ru": "🌀 Отправлять репосты"}}, 
     {"key": "text", "display": {"en": "✏ Send text messages", "ru": "✏ Отправлять текст"}},
