@@ -9,10 +9,10 @@
     {"key": "keyWords", "display": {"en": "🔑 Key words", "ru": "🔑 Ключевые слова"}},
     {"key": "customText", "display": {"en": "📝 Add custom text", "ru": "📝 Дополнительный текст"}},
     {"key": "noNotify", "display": {"en": "🔕 Silent Broadcast", "ru": "🔕 Отправлять “тихо”"}},
-    {"key": "photoLimit", "display": {"en": "📷 Limit by the number of photos", "ru": "📷 Ограничить по числу фото"}}, 
+    {"key": "photoLimit", "display": {"en": "📷 Limit by photos", "ru": "📷 Ограничить по числу фото"}}, 
     {"key": "deleteTags", "display": {"en": "🏷 Remove “@...” from tags", "ru": "🏷 Удалять “@...” из тегов"}}, 
     {"key": "reposts", "display": {"en": "🌀 Send reposts", "ru": "🌀 Отправлять репосты"}}, 
-    {"key": "text", "display": {"en": "✏ Send text messages", "ru": "✏ Отправлять текстовые сообщения"}},
+    {"key": "text", "display": {"en": "✏ Send text messages", "ru": "✏ Отправлять текст"}},
     {"key": "music", "display": {"en": "🎵 Send audios", "ru": "🎵 Отправлять аудио"}},
     {"key": "gifs", "display": {"en": "🎆 Send GIF's", "ru": "🎆 Отправлять GIF"}},
     {"key": "video", "display": {"en": "🎥 Send videos", "ru": "🎥 Отправлять видео"}},
@@ -20,7 +20,7 @@
     {"key": "musicPosts", "display": {"en": "🎧 Send posts with audios", "ru": "🎧 Записи с аудио"}},
     {"key": "videoPosts", "display": {"en": "🎬 Send posts with videos", "ru": "🎬 Записи с видео"}},
     {"key": "photoPosts", "display": {"en": "🌆 Send posts with photos", "ru": "🌆 Записи с фото"}},
-    {"key": "membersPosts", "display": {"en": "👥 Send posts submitted by users", "ru": "👥 Записи участников"}},
+    {"key": "membersPosts", "display": {"en": "👥 Submitted by users", "ru": "👥 Записи участников"}},
     {"key": "polls", "display": {"en": "📊 Setup polls", "ru": "📊 Настроить опросы"}}
 ],
 
